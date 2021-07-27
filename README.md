@@ -36,8 +36,8 @@ Base customization for the module.
 ```js
 const Discord = require('discord.js')
 const client = new Discord.Client({ partials: ['CHANNEL', 'MESSAGE', 'GUILD_MEMBER', 'USER'] })
-const fart = require('discord-cooldown')
-const cooldown = new fart(client, '848346040511758356', 1, 3, true)
+const npmcool = require('discord-cooldown')
+const cooldown = new npmcool(client, '848346040511758356', 1, 3, true)
 
 client.on("ready", () => {
     console.log(`I AM READY!!!!`)
