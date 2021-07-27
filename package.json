@@ -1,0 +1,28 @@
+{
+  "name": "discord-cooldown",
+  "version": "1.0.1",
+  "description": "A simple message cooldown module for DiscordJS V12.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itz-Hyperz/discord-cooldown.git"
+  },
+  "keywords": [
+    "Jordan",
+    "Fuel",
+    "Hyperz",
+    "Development"
+  ],
+  "author": "Hyperz#0001 & Jordan.#2139",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Itz-Hyperz/discord-cooldown/issues"
+  },
+  "homepage": "https://github.com/Itz-Hyperz/discord-cooldown#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
